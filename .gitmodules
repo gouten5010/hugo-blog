@@ -4,3 +4,27 @@
 [submodule "themes/slim"]
 	path = themes/slim
 	url = git@github.com:zhe/hugo-theme-slim.git
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "themes/npq-hugo"]
+	path = themes/npq-hugo
+	url = git@github.com:saadnpq/npq-hugo.git
+[submodule "themes/onepress"]
+	path = themes/onepress
+	url = https://github.com/ijsucceed/onepress.git
+[submodule "themes/blackburn"]
+	path = themes/blackburn
+	url = git@github.com:yoshiharuyamashita/blackburn.git
+[submodule "pickels"]
+	path = pickels
+	url = git@github.com:mismith0227/hugo_theme_pickles.git
+[submodule "themes/pickels"]
+	path = themes/pickels
+	url = git@github.com:mismith0227/hugo_theme_pickles.git
+[submodule "themes/anubis"]
+	path = themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "themes/archie"]
+	path = themes/archie
+	url = https://github.com/athul/archie.git

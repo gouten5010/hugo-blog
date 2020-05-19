@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Test Blog</title>
-    <link>https://gouten5010.github.io/hugo-blog/posts/</link>
-    <description>Recent content in Posts on Hugo Test Blog</description>
+    <title>Posts on Hugo Demo</title>
+    <link>https://gouetn5010.github.io/hugo-blog/posts/</link>
+    <description>Recent content in Posts on Hugo Demo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 May 2020 20:24:35 +0900</lastBuildDate>
+    <language>ja</language>
+    <copyright>© DOT LiNE SQUARE</copyright>
+    <lastBuildDate>Tue, 19 May 2020 20:59:35 +0900</lastBuildDate>
     
-	<atom:link href="https://gouten5010.github.io/hugo-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gouetn5010.github.io/hugo-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
-      <link>https://gouten5010.github.io/hugo-blog/posts/hello-world/</link>
+      <title>檸檬</title>
+      <link>https://gouetn5010.github.io/hugo-blog/posts/3/</link>
+      <pubDate>Tue, 19 May 2020 20:59:35 +0900</pubDate>
+      
+      <guid>https://gouetn5010.github.io/hugo-blog/posts/3/</guid>
+      <description>えたいの知れない不吉な塊が私の心を始終圧おさえつけていた。焦躁しょうそうと言おうか、嫌悪と言おうか――酒を飲んだあとに宿酔ふつかよいがあるよ</description>
+    </item>
+    
+    <item>
+      <title>First Posts</title>
+      <link>https://gouetn5010.github.io/hugo-blog/posts/2/</link>
       <pubDate>Tue, 19 May 2020 20:24:35 +0900</pubDate>
       
-      <guid>https://gouten5010.github.io/hugo-blog/posts/hello-world/</guid>
+      <guid>https://gouetn5010.github.io/hugo-blog/posts/2/</guid>
+      <description>It&amp;rsquo;s first blog.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://gouetn5010.github.io/hugo-blog/posts/1/</link>
+      <pubDate>Tue, 19 May 2020 20:20:35 +0900</pubDate>
+      
+      <guid>https://gouetn5010.github.io/hugo-blog/posts/1/</guid>
       <description>Welcome to Hugo blog.</description>
     </item>
     

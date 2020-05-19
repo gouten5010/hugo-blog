@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Test Blog</title>
-    <link>https://gouten5010.github.io/hugo-blog/tags/</link>
-    <description>Recent content in Tags on Hugo Test Blog</description>
+    <title>Tags on Hugo Demo</title>
+    <link>https://gouetn5010.github.io/hugo-blog/tags/</link>
+    <description>Recent content in Tags on Hugo Demo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 May 2020 20:24:35 +0900</lastBuildDate>
+    <language>ja</language>
+    <copyright>© DOT LiNE SQUARE</copyright>
+    <lastBuildDate>Tue, 19 May 2020 20:59:35 +0900</lastBuildDate>
     
-	<atom:link href="https://gouten5010.github.io/hugo-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gouetn5010.github.io/hugo-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>daily</title>
-      <link>https://gouten5010.github.io/hugo-blog/tags/daily/</link>
+      <link>https://gouetn5010.github.io/hugo-blog/tags/daily/</link>
+      <pubDate>Tue, 19 May 2020 20:59:35 +0900</pubDate>
+      
+      <guid>https://gouetn5010.github.io/hugo-blog/tags/daily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://gouetn5010.github.io/hugo-blog/tags/about/</link>
       <pubDate>Tue, 19 May 2020 20:24:35 +0900</pubDate>
       
-      <guid>https://gouten5010.github.io/hugo-blog/tags/daily/</guid>
+      <guid>https://gouetn5010.github.io/hugo-blog/tags/about/</guid>
       <description></description>
     </item>
     

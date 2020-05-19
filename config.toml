@@ -1,4 +1,6 @@
 baseURL = "https://gouetn5010.github.io/hugo-blog/"
+publishDir = "docs"
+
 languageCode = "ja"
 title = "Hugo Demo"
 theme="archie"

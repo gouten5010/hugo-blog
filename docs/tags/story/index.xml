@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Story on Hugo Demo</title>
+    <link>https://gouten5010.github.io/hugo-blog/tags/story/</link>
+    <description>Recent content in Story on Hugo Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© DOT LiNE SQUARE</copyright>
+    <lastBuildDate>Tue, 19 May 2020 20:59:35 +0900</lastBuildDate>
+    
+	<atom:link href="https://gouten5010.github.io/hugo-blog/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>檸檬</title>
+      <link>https://gouten5010.github.io/hugo-blog/posts/3/</link>
+      <pubDate>Tue, 19 May 2020 20:59:35 +0900</pubDate>
+      
+      <guid>https://gouten5010.github.io/hugo-blog/posts/3/</guid>
+      <description>えたいの知れない不吉な塊が私の心を始終圧おさえつけていた。焦躁しょうそうと言おうか、嫌悪と言おうか――酒を飲んだあとに宿酔ふつかよいがあるよ</description>
+    </item>
+    
+  </channel>
+</rss>

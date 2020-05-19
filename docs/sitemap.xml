@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gouten5010.github.io/hugo-blog/tags/daily/</loc>
+    <loc>https://gouten5010.github.io/hugo-blog/tags/novel/</loc>
     <lastmod>2020-05-19T20:59:35+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://gouten5010.github.io/hugo-blog/posts/</loc>
+    <lastmod>2020-05-19T20:59:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gouten5010.github.io/hugo-blog/tags/story/</loc>
     <lastmod>2020-05-19T20:59:35+09:00</lastmod>
   </url>
   
@@ -29,6 +34,11 @@
   
   <url>
     <loc>https://gouten5010.github.io/hugo-blog/tags/about/</loc>
+    <lastmod>2020-05-19T20:24:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gouten5010.github.io/hugo-blog/tags/daily/</loc>
     <lastmod>2020-05-19T20:24:35+09:00</lastmod>
   </url>
   

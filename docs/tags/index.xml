@@ -13,11 +13,20 @@
     
     
     <item>
-      <title>daily</title>
-      <link>https://gouten5010.github.io/hugo-blog/tags/daily/</link>
+      <title>Novel</title>
+      <link>https://gouten5010.github.io/hugo-blog/tags/novel/</link>
       <pubDate>Tue, 19 May 2020 20:59:35 +0900</pubDate>
       
-      <guid>https://gouten5010.github.io/hugo-blog/tags/daily/</guid>
+      <guid>https://gouten5010.github.io/hugo-blog/tags/novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>https://gouten5010.github.io/hugo-blog/tags/story/</link>
+      <pubDate>Tue, 19 May 2020 20:59:35 +0900</pubDate>
+      
+      <guid>https://gouten5010.github.io/hugo-blog/tags/story/</guid>
       <description></description>
     </item>
     
@@ -27,6 +36,15 @@
       <pubDate>Tue, 19 May 2020 20:24:35 +0900</pubDate>
       
       <guid>https://gouten5010.github.io/hugo-blog/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>daily</title>
+      <link>https://gouten5010.github.io/hugo-blog/tags/daily/</link>
+      <pubDate>Tue, 19 May 2020 20:24:35 +0900</pubDate>
+      
+      <guid>https://gouten5010.github.io/hugo-blog/tags/daily/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Test Blog</title>
+    <link>https://gouten5010.github.io/hugo-blog/</link>
+    <description>Recent content on Hugo Test Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 May 2020 20:24:35 +0900</lastBuildDate>
+    
+	<atom:link href="https://gouten5010.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://gouten5010.github.io/hugo-blog/about/</link>
+      <pubDate>Tue, 19 May 2020 20:24:35 +0900</pubDate>
+      
+      <guid>https://gouten5010.github.io/hugo-blog/about/</guid>
+      <description>This blog created by Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://gouten5010.github.io/hugo-blog/posts/hello-world/</link>
+      <pubDate>Tue, 19 May 2020 20:24:35 +0900</pubDate>
+      
+      <guid>https://gouten5010.github.io/hugo-blog/posts/hello-world/</guid>
+      <description>Welcome to Hugo blog.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,6 @@
 baseURL = "https://gouten5010.github.io/hugo-blog/"
 publishDir = "docs"
+canonifyurls = true
 
 languageCode = "ja"
 title = "Hugo Demo"

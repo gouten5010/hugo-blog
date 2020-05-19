@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about on Hugo Demo</title>
-    <link>https://gouetn5010.github.io/hugo-blog/tags/about/</link>
+    <link>https://gouten5010.github.io/hugo-blog/tags/about/</link>
     <description>Recent content in about on Hugo Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© DOT LiNE SQUARE</copyright>
     <lastBuildDate>Tue, 19 May 2020 20:24:35 +0900</lastBuildDate>
     
-	<atom:link href="https://gouetn5010.github.io/hugo-blog/tags/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gouten5010.github.io/hugo-blog/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://gouetn5010.github.io/hugo-blog/about/</link>
+      <link>https://gouten5010.github.io/hugo-blog/about/</link>
       <pubDate>Tue, 19 May 2020 20:24:35 +0900</pubDate>
       
-      <guid>https://gouetn5010.github.io/hugo-blog/about/</guid>
+      <guid>https://gouten5010.github.io/hugo-blog/about/</guid>
       <description>This is my blog.</description>
     </item>
     

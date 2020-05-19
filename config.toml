@@ -1,3 +1,16 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://gouten5010.github.io/hugo-blog"
+title = "Hugo Test Blog"
+publishDir = "docs"
+theme = "slim"
+
+[params]
+  Subtitle = "Your site's subtitle/tagline"
+  GithubID = "Your Github ID"
+  TwitterID = "Your Twitter ID"
+  AnalyticsID = "Your Google Analytics tracking code"
+  DisqusShortname = "Your Disqus shortname"
+  Summary = true  # takes true or false
+  Content = false  # takes true or false
+  # if both are set to true, summary is shown.
+  FooterMsg = "Copyright GOUTEN 2020. Powered by Hugo."
+  mainSections = ["post"]

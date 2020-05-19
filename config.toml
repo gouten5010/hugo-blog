@@ -1,7 +1,7 @@
 baseURL = "https://gouten5010.github.io/hugo-blog"
 title = "Hugo Test Blog"
 publishDir = "docs"
-theme = "slim"
+theme = "hugo-theme-slim"
 
 [params]
   Subtitle = "This blog created by Hugo."

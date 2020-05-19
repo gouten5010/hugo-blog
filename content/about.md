@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 tags:
-  - daily
+  - about
 ---
 
-This blog created by Hugo.
+This is my blog.

@@ -1,16 +1,52 @@
-baseURL = "https://gouten5010.github.io/hugo-blog"
-title = "Hugo Test Blog"
-publishDir = "docs"
-theme = "hugo-theme-slim"
+baseURL = "https://gouetn5010.github.io/hugo-blog/"
+languageCode = "ja"
+title = "Hugo Demo"
+theme="archie"
+copyright = "© DOT LiNE SQUARE"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+HasCJKLanguage = true
+
+paginate=3 # articles per page
 
 [params]
-  Subtitle = "This blog created by Hugo."
-  GithubID = "gouten5010"
-  TwitterID = "gouten5010"
-  # AnalyticsID = "Your Google Analytics tracking code"
-  # DisqusShortname = "Your Disqus shortname"
-  Summary = true  # takes true or false
-  Content = true  # takes true or false
-  # if both are set to true, summary is shown.
-  FooterMsg = "Copyright GOUTEN 2020. Powered by Hugo."
-  mainSections = ["posts"]
+	mode="light" # color-mode → light,dark or auto
+	featherIconsCDN=true
+	subtitle = "This is Hugo demo site."
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/gouten5010/"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://github.com/gouten5010"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Notes"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
